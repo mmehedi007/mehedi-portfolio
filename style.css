@@ -1,0 +1,54 @@
+body{
+    font-family: 'Acme', sans-serif;
+    margin: 0%;
+}
+h1{
+    font-size: 50px;
+}
+.orange-colour{
+    color: orangered;
+}
+.flexible-container{
+    display: flex;
+    margin-bottom: 70px;
+}
+.half-width{
+    width: 50%;
+    padding-left: 3%;
+}
+.half-width img{
+    width: 80%;
+}
+
+.link-button{
+    text-decoration:none ;
+    padding:10px 20px;
+    background-image: linear-gradient(orange,tomato);
+     border-radius:3px ;
+     color: white;
+     font-weight: 500;
+}
+.peaky-blinders{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+    
+}
+.tom-shelby{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    
+}
+.shelby-brother{
+    box-shadow:10px 10px 40px gray;
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 10px;
+}
+.Experiences-area{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position:left ;
+}
+
